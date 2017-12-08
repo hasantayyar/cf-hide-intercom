@@ -12,7 +12,7 @@
   "homepage": "https://hasantayyar.net",
   "dependencies": {},
   "devDependencies": {
-    "standard": "^9.0.2"
+    "standard": "^10.0.3"
   },
   "standard": {
     "globals": [
