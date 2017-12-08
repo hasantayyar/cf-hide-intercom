@@ -4,10 +4,6 @@
       {
         "type": "style",
         "src": "./source/app.css"
-      },
-      {
-        "type": "script",
-        "src": "./source/app.js"
       }
     ]
   },
