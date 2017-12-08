@@ -1,0 +1,26 @@
+{
+  "name": "@hasantayyar/hide-intercom",
+  "version": "0.0.1",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "lint": "standard --fix ./source/**/*.js || true"
+  },
+  "private": true,
+  "author": "Hasan Tayyar Besik",
+  "license": "LGPL",
+  "homepage": "https://hasantayyar.net",
+  "dependencies": {},
+  "devDependencies": {
+    "standard": "^9.0.2"
+  },
+  "standard": {
+    "globals": [
+      "INSTALL",
+      "INSTALL_OPTIONS",
+      "INSTALL_SCOPE",
+      "INSTALL_PRODUCT",
+      "INSTALL_ID"
+    ]
+  }
+}
